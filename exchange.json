@@ -15,14 +15,6 @@
       "groupId": "a4b25129-00a1-42a7-a513-cba7fb01ab75",
       "packaging": "zip",
       "provided": false
-    },
-    {
-      "version": "1.0.2",
-      "classifier": "raml-fragment",
-      "assetId": "American-Flight-Data-Type",
-      "groupId": "a4b25129-00a1-42a7-a513-cba7fb01ab75",
-      "packaging": "zip",
-      "provided": false
     }
   ],
   "version": "1.0.0",
