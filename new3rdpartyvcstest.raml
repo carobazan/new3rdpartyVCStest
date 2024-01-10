@@ -1,2 +1,15 @@
 #%RAML 1.0
 title: new3rdpartyvcstest
+
+types:
+    F: !include exchange_modules/a4b25129-00a1-42a7-a513-cba7fb01ab75/training-american-flight-data-type/1.0.1/AmericanFlightDataType.raml
+ 
+/flights:
+    get:
+        responses:
+            200:
+                body:
+                    application/json:
+                        type: F[]
+                        example: !include exchange_modules/a4b25129-00a1-42a7-a513-cba7fb01ab75/training-american-flights-example/1.0.1/AmericanFlightsExample.raml
+                      
