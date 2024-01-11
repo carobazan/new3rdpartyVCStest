@@ -4,7 +4,7 @@
       "version": "1.0.1",
       "classifier": "raml-fragment",
       "assetId": "training-american-flight-data-type",
-      "groupId": "a4b25129-00a1-42a7-a513-cba7fb01ab75",
+      "groupId": "68ef9520-24e9-4cf2-b2f5-620025690913",
       "packaging": "zip",
       "provided": false
     },
@@ -12,7 +12,7 @@
       "version": "1.0.1",
       "classifier": "raml-fragment",
       "assetId": "training-american-flights-example",
-      "groupId": "a4b25129-00a1-42a7-a513-cba7fb01ab75",
+      "groupId": "68ef9520-24e9-4cf2-b2f5-620025690913",
       "packaging": "zip",
       "provided": false
     }
@@ -23,6 +23,7 @@
   "classifier": "raml",
   "main": "new3rdpartyvcstest.raml",
   "assetId": "new3rdpartyvcstest",
-  "groupId": "null",
+  "groupId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "organizationId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
   "name": "new3rdpartyVCStest"
 }
